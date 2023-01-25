@@ -1,0 +1,152 @@
+How can I change the local account name on Windows?
+To change the local account name on Windows, go to the Control Panel > User Accounts > Change Account Name.
+
+How can a user change their account name from Powershell?
+To change an account name from Powershell, open a PowerShell window and type in the command "Rename-LocalUser Username NewUsername". 
+Replace "Username" with your current username, and replace "NewUsername" with the desired name for your account.
+
+
+Meta1
+
+steps to download VMware
+1. Go to the VMware website; 
+2. Select the Download option; 
+3. Select the product you want to install; 
+4. Follow the instructions for downloading and installing; 
+5. Once complete, launch the program to use it.
+
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("Reading time" "\n")
+input("")
+print("steps to download VMware""\n" )
+input("")
+print("1. Go to the VMware website")
+input("")
+print("2. Select the Download option")
+input("")
+print("3. Select the product you want to install")
+input("")
+print("4. Follow the instructions for downloading and installing")
+input("")
+print("5. Once complete, launch the program to use it.")
+input("")
+print("Now Pratice time")
+input("")
+
+
+    
+
+steps for installing VMWare
+1. Download and install the VMWare installer from the official website. 
+2. Accept the terms and conditions and proceed with the installation. 
+3. Select the features you need and complete the installation process.
+
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("Reading time" "\n")
+input("")
+print("steps for installing VMWare""\n" )
+input("")
+print("1. Download and install the VMWare installer from the official website. ")
+input("")
+print("2. Accept the terms and conditions and proceed with the installation. ")
+input("")
+print("3. Select the features you need and complete the installation process.")
+input("")
+print("Now Pratice time")
+input("")
+
+
+    
+
+
+    
+
+steps to update VMware
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("steps to update VMware")
+input("")
+print("Now Pratice time")
+input("")
+
+
+Meta2
+
+Steps to import a new ISO in VMware
+First, download the ISO to your computer and then upload it to the VMware server. 
+Next, choose the virtual machine you want to import the ISO into and select 'Edit Settings'. 
+Finally, open the CD/DVD section under 'Hardware', select 'Use ISO image file' and browse for the ISO you just uploaded.
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("Reading time" "\n")
+input("")
+print("Steps to import a new ISO in VMware""\n" )
+input("")
+print("First, download the ISO to your computer and then upload it to the VMware server.  ")
+input("")
+print("Next, choose the virtual machine you want to import the ISO into and select 'Edit Settings'.  ")
+input("")
+print("Finally, open the CD/DVD section under 'Hardware', select 'Use ISO image file' and browse for the ISO you just uploaded.")
+input("")
+print("Now Pratice time")
+input("")
+
+
+    
+
+Meta3
+steps to check VMware settings
+First, open the virtual machine's settings window. 
+Next, select the Hardware tab and check for any changes that need to be made. 
+Finally, save the settings to make sure all changes are applied.
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("Reading time" "\n")
+input("")
+print("steps to check VMware settings""\n" )
+input("")
+print("First, open the virtual machine's settings window. ")
+input("")
+print("Next, select the Hardware tab and check for any changes that need to be made.   ")
+input("")
+print("Finally, save the settings to make sure all changes are applied.")
+input("")
+print("Now Pratice time")
+input("")
+
+
+    
+
+Meta4
+Steps for downloading Windows and Mac for VMWare
+
+print("\n")
+print('Wecome to Learn Tube Academy'"\n")
+input("")
+print("Reading time" "\n")
+input("")
+print("Steps for downloading Windows and Mac for VMWare""\n" )
+input("")
+print("Now Pratice time")
+input("")
+
+
+    
+
+
+Meta5
+Steps for installing Windows in VMware
+To install Windows in VMware, you need to download the Windows ISO file and create a new virtual machine. 
+Once the new VM is created, follow the installation instructions provided by VMware to complete the process.
